@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2019-04-11 20:10:19
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-04-22 18:45:19
-*/
+
 export const SET_PAGE = 'product@set_page'
 export const PAGE_REQUEST = 'product@page_request'
 export const PAGE_DONE = 'product@page_done'

@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2019-04-24 19:11:15
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-04-30 19:12:07
-*/
+
 var _util = require('util')
 
 var _shipping = {

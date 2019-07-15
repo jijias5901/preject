@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2019-04-16 19:22:03
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-04-16 20:43:01
-*/
+
 import React,{ Component } from 'react'
 import {
   Layout, Menu, Icon, Dropdown

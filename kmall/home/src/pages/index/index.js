@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2019-04-23 19:24:03
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-04-26 20:06:19
-*/
+
 import Swiper from 'swiper'
 import 'swiper/dist/css/swiper.min.css'
 

@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2019-04-24 19:20:01
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-04-29 18:36:05
-*/
+
 var Hogan = require('hogan.js')
 var _util = {
 	request:function(options){

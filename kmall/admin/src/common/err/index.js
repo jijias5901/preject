@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2019-04-16 20:45:52
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-04-16 20:50:57
-*/
+
 import React,{ Component } from 'react'
 import { Link } from "react-router-dom"
 import { Alert } from 'antd';

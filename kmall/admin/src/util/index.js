@@ -1,9 +1,3 @@
-/*
-* @Author: TomChen
-* @Date:   2019-04-16 18:14:09
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-04-17 20:36:56
-*/
 
 import axios from 'axios';
 

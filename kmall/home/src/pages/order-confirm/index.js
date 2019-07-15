@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2019-04-23 19:31:31
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-04-30 19:35:24
-*/
+
 require('pages/common/nav')
 require('pages/common/search')
 require('pages/common/footer')

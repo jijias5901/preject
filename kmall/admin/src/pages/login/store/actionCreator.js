@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2019-04-11 20:15:26
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-04-16 18:53:44
-*/
+
 import * as types from './actionTypes.js'
 import axios from 'axios';
 import { message } from 'antd';
@@ -24,12 +19,7 @@ const getLoginDoneAction = ()=>{
 
 export const getLoginAction = (values)=>{
 	return (dispatch)=>{
-		//1.让登录按钮处于加载状态
-		//1.1 其实就是需要改变state.login.isFetching 为 true
-		//1.2 方法就是派发action
-		//1.3 dispatch把action派发到store
-		//1.4 store再把action转交个reducer
-		//1.5 相当于程序流程走到./reducer.js
+	
 		dispatch(getLoginRequestAction());
         request({
                 method:'post',
